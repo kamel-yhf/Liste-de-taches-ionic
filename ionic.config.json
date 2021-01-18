@@ -1,5 +1,7 @@
 {
   "name": "Todolist",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
