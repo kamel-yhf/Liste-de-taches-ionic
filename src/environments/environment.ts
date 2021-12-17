@@ -3,7 +3,16 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  firebaseConfig: {
+    apiKey: "AIzaSyCUmTpInKQMUsqJNiCtoIG0gV8jqZoBnos",
+    authDomain: "listdetache.firebaseapp.com",
+    databaseURL: "https://listdetache-default-rtdb.firebaseio.com",
+    projectId: "listdetache",
+    storageBucket: "listdetache.appspot.com",
+    messagingSenderId: "375367038020",
+    appId: "1:375367038020:web:49a429c21973fc3521f811",
+  },
 };
 
 /*
